@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/rajin-siam/.comsocial-proof-section-master)
+- Solution URL: [Solution URL here](https://github.com/rajin-siam/social-proof-section)
 - Live Site URL: [Live site URL here](https://rajin-siam.github.io/social-proof-section)
 
 ## My process
